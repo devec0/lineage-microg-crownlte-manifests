@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="synt4x93/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
+  <project name="synt4x93/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="lineage-15.1" />
+  <project name="synt4x93/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
+  <project name="synt4x93/android_kernel_samsung_universal9810-crown" path="kernel/samsung/universal9810-crown" remote="github" revision="lineage-15.1" />
+</manifest>
