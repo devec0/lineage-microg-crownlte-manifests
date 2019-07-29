@@ -1,5 +1,5 @@
 docker run \
-    -e "BRANCH_NAME=lineage-15.1" \
+    -e "BRANCH_NAME=lineage-16.0" \
     -e "DEVICE_LIST=crownlte" \
     -e "SIGN_BUILDS=true" \
     -e "SIGNATURE_SPOOFING=restricted" \
@@ -12,4 +12,4 @@ docker run \
     -v "$(pwd)/keys:/srv/keys" \
     -v "$(pwd)/manifests:/srv/local_manifests" \
     -it \
-    lineageos4microg/docker-lineage-cicd
+    lineageos4microg/docker-lineage-cicd:latest
