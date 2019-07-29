@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- vendor / proprietary -->
+  <project name="devec0/proprietary_vendor_samsung_universal9810-common" path="vendor/samsung/universal9810-common" remote="github" revision="lineage-16.0-stable" />
   <!-- device trees -->
   <project name="devec0/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="lineage-16.0-stable" />
   <project name="devec0/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="lineage-16.0-stable" />
-  <!-- vendor / proprietary -->
-  <project name="devec0/proprietary_vendor_samsung_crownlte" path="vendor/samsung" remote="github" revision="lineage-16.0-stable" />
   <!-- lineage hardware -->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
   <!-- kernel -->

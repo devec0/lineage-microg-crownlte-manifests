@@ -12,4 +12,4 @@ docker run \
     -v "$(pwd)/keys:/srv/keys" \
     -v "$(pwd)/manifests:/srv/local_manifests" \
     -it \
-    lineageos4microg/docker-lineage-cicd:latest
+    docker-microg-note9:latest 
