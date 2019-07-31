@@ -8,5 +8,5 @@
   <!-- lineage hardware -->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
   <!-- kernel -->
-  <project name="exynos-linux-stable/crownlte" path="kernel/samsung/exynox-stable-crownlte" remote="github" revision="tw90-android-p" />
+  <project name="devec0/exynos-linux-stable-crownlte" path="kernel/samsung/exynox-stable-crownlte" remote="github" revision="tw90-android-p" />
 </manifest>
